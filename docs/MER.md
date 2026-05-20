@@ -412,9 +412,7 @@ Relaciones:
 
 ---
 
-## Diagrama MER en Mermaid
-
-Puedes pegar este bloque en GitHub, Notion, Mermaid Live Editor o en el README si GitHub lo renderiza correctamente.
+## Diagrama MER 
 
 ```mermaid
 erDiagram

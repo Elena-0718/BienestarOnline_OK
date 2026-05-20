@@ -663,9 +663,8 @@ El sistema maneja entidades relacionadas con los siguientes dominios:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
-```
+git clone <https://github.com/Elena-0718/bienestar-online-api.gitt>
+
 
 ### 2. Instalar dependencias
 
